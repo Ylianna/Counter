@@ -12,6 +12,7 @@ const subBtn = document.getElementById('sub')
 const asyncBtn = document.getElementById('async')
 const themeBtn = document.getElementById('theme')
 
+
 // function logger(state) {  //middleware
 // return function (next) {
 // return function (action) {
@@ -36,6 +37,7 @@ const store = createStore(
     rootReducer,
     composeWithDevTools(
         applyMiddleware(thunk, logger)
+
     )
 )
 
