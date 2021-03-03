@@ -21,9 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dc8b0675-ece8-4d6b-b9dc-eeefcef3f65d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/native.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/native.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +43,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -77,7 +76,8 @@
       <workItem from="1612367331095" duration="12636000" />
       <workItem from="1612457060374" duration="5126000" />
       <workItem from="1612537211722" duration="84000" />
-      <workItem from="1614791148872" duration="1085000" />
+      <workItem from="1614791148872" duration="1636000" />
+      <workItem from="1614793597008" duration="714000" />
     </task>
     <servers />
   </component>
@@ -97,6 +97,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1614792900691">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614792900691" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1612381878948">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -113,5 +117,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612381878932" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1614793771085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614793771085" />
   </component>
 </project>
