@@ -21,7 +21,12 @@
   <component name="ChangeListManager">
     <list default="true" id="dc8b0675-ece8-4d6b-b9dc-eeefcef3f65d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/rootReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/types.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,6 +96,8 @@
       <workItem from="1614791148872" duration="1636000" />
       <workItem from="1614793597008" duration="714000" />
       <workItem from="1614831817527" duration="1037000" />
+      <workItem from="1614881499720" duration="13000" />
+      <workItem from="1614881518695" duration="300000" />
     </task>
     <servers />
   </component>

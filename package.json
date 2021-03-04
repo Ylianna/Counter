@@ -12,7 +12,7 @@
     "deploy": "gh-pages -d build"
   },
   "keywords": [],
-  "author": "Vladilen Minin <vladilen.minin@gmail.com>",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^3.4.2",
