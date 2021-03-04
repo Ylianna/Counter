@@ -1,6 +1,6 @@
 {
   "name": "redux-prep",
-  "homepage": "https://ylianna.github.io/miniCounter",
+  "homepage": "https://ylianna.github.io/Counter",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
