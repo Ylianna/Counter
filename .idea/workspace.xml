@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc8b0675-ece8-4d6b-b9dc-eeefcef3f65d" name="Default Changelist" comment="" />
+    <list default="true" id="dc8b0675-ece8-4d6b-b9dc-eeefcef3f65d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +46,17 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.start">
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -55,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.deploy" />
         <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
@@ -75,7 +90,7 @@
       <workItem from="1612537211722" duration="84000" />
       <workItem from="1614791148872" duration="1636000" />
       <workItem from="1614793597008" duration="714000" />
-      <workItem from="1614831817527" duration="325000" />
+      <workItem from="1614831817527" duration="1037000" />
     </task>
     <servers />
   </component>
@@ -99,22 +114,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614792900691" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1612381878948">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1614832840494">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612381878948" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1612381878932">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614832840494" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1614832840494">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612381878932" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1612381878932">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614832840494" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1614832840493">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612381878932" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1612381878932">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614832840493" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1614832840494">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612381878932" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614832840494" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1614793771085">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
